@@ -1,4 +1,6 @@
-# Hi there 👋
+# Hi there 👋 I'm Luiz :)
+
+Programmer since 2018, starting with a little Python and complementing my knowledge with Web Development. Currently studying and learning HTML, CSS and JS.
 
 <!--
 **luizfilipeyep/luizfilipeyep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
