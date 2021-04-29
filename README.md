@@ -1,8 +1,8 @@
 # Hi there 👋 I'm Luiz :)
 
-17yo
-From Pernambuco, Brazil
-Lover of: Programming, Music and League of Legends <3
+* 17yo
+* From Pernambuco, Brazil
+* Lover of: Programming, Music and League of Legends <3
 
 Programmer since 2018, starting with a little Python and complementing my knowledge with Web Development. Currently studying and learning HTML, CSS and JS.
 
