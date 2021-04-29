@@ -1,5 +1,8 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luiz :)</h1>
+<!--
 <img align="right" width="300" height="300" src="https://hum-systems.com/site/templates/images/jobs/developer_m.png">
+-->
+<img align="right" width="300" height="300" src="https://i.pinimg.com/originals/96/73/19/967319336f4c9a46cc5498a0ccf6fddd.gif">
 
 * 17yo
 * From Pernambuco, Brazil
