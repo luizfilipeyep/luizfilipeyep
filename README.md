@@ -1,6 +1,6 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luiz :)</h1>
 
-* 17yo
+* 18yo
 * From Pernambuco, Brazil
 * Lover of: Programming, Music and League of Legends <3
 
