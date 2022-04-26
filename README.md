@@ -7,7 +7,7 @@
 Programmer since 2018, starting with a little Python and complementing my knowledge with Web Development. 
 
 <div align="center">
-  <a href="https://github.com/luizomena">
+  <a href="https://github.com/luizfilipeyep">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfilipeyep&layout=compact&langs_count=7&theme=dracula"/>
   <img src="profile.gif" width="180em"></img>
 </div>
