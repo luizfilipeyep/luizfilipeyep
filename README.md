@@ -5,6 +5,8 @@
 * Lover of: Programming, Music and League of Legends <3
 
 Programmer since 2018, starting with a little Python and complementing my knowledge with Web Development. 
+<br>
+Committed, eclectic and very creative. I love reading books, learning new languages and learning new things. Look at some of my projects. 😉👋🏻
 
 <div align="center">
   <a href="https://github.com/luizfilipeyep">
