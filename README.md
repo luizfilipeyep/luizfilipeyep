@@ -22,6 +22,7 @@ Committed, eclectic and very creative. I love reading books, learning new langua
   <img title="VueJS" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img title="SASS" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img title="Wordpress" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg">
+  <img title="React" align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
 
 <h3>DevOps</h3>
