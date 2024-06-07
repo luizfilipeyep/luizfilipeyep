@@ -1,8 +1,7 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luiz :)</h1>
 
-* 19yo
+* 20o
 * From Pernambuco, Brazil
-* Lover of: Programming, Music and League of Legends <3
 
 Programmer since 2018, starting with a little Python and complementing my knowledge with Web Development. 
 <br>
