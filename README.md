@@ -1,6 +1,6 @@
 <h1 align="left">Hi there <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Luiz :)</h1>
 
-* 20yo
+* 21yo
 * From Pernambuco, Brazil
 
 Programmer since 2018, starting with a little Python and complementing my knowledge with Web Development. 
